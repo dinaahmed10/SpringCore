@@ -12,7 +12,5 @@ public class traveler {
     public void startJourney(){
         this.vehicle.move();
     }
-
-
-
+ 
 }
