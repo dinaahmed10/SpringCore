@@ -3,14 +3,14 @@ package com.spring.core.Spring_IOC_Container.Java_Based;
 public class traveler {
 
     ////////  هنا بقا مع ال Tight coupling   ////
-//   car car=null;
-//   public traveler(){
-//       this.car=new car();
-//   }
-//
-//   public void startJourney(){
-//       this.car.move();
-//   }
+//   car car;
+////   public traveler(){
+////       this.car=new car();
+////   }
+////
+////   public void startJourney(){
+////       this.car.move();
+////   }
 
     //طب لو الtraveler  عايز يروح بال bike  هنغير الكود كله المعتمد على ال car
 
@@ -28,7 +28,7 @@ public class traveler {
     //طب لو الtraveler  عايز يروح بال cycle  هنغير الكود كله المعتمد على ال bike
 
 //    vehicle
-//    cycle cycle=null;
+//    cycle cycle;
 //    public traveler(){
 //        this.cycle=new cycle();
 //    }

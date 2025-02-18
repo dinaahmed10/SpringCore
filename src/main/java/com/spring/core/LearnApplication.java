@@ -1,5 +1,4 @@
-package com.spring.core.learn;
-
+package com.spring.core;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
