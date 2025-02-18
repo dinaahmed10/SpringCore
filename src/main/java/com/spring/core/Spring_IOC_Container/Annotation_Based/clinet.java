@@ -1,11 +1,10 @@
-package com.spring.core.Spring_IOC_Container.Java_Based;
+package com.spring.core.Spring_IOC_Container.Annotation_Based;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class clinet {
  public static void main(String[] args) {
-
 
      ///// هنا بقا ال spring ioc contanir المسوول عن  انشاء ال java beans و ادارتها
 
