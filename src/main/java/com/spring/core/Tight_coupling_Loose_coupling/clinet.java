@@ -1,4 +1,4 @@
-package com.spring.core.TightAndLooseCupling;
+package com.spring.core.Tight_coupling_Loose_coupling;
 
 public class clinet {
  public static void main(String[] args) {

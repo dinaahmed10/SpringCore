@@ -1,4 +1,4 @@
-package com.spring.core.TightAndLooseCupling;
+package com.spring.core.Tight_coupling_Loose_coupling;
 
 public class bike implements vehicle {
     public void move(){

@@ -1,4 +1,4 @@
-package com.spring.core.TightAndLooseCupling;
+package com.spring.core.Tight_coupling_Loose_coupling;
 
 public class traveler {
 
@@ -39,7 +39,7 @@ public class traveler {
 
 ////////  هنا بقا مع ال loose coupling   ////
 
-    com.spring.core.TightAndLooseCupling.vehicle vehicle;
+    com.spring.core.Tight_coupling_Loose_coupling.vehicle vehicle;
     public traveler(vehicle vehicle){
         this.vehicle=vehicle;
     }
